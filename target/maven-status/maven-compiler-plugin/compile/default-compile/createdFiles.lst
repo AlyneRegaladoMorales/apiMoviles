@@ -1,0 +1,7 @@
+com\guide\guidemicroservice\entities\Guide.class
+com\guide\guidemicroservice\entities\Guide$GuideBuilder.class
+com\guide\guidemicroservice\service\impl\GuideServiceImpl.class
+com\guide\guidemicroservice\repository\GuideRepository.class
+com\guide\guidemicroservice\controller\GuideController.class
+com\guide\guidemicroservice\GuidemicroserviceApplication.class
+com\guide\guidemicroservice\service\GuideService.class

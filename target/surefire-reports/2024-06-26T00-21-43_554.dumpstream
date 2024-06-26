@@ -1,0 +1,5 @@
+# Created at 2024-06-26T00:21:45.867
+Boot Manifest-JAR contains absolute paths in classpath 'D:\2024 1\Uni\Moviles\Flutter\Proyecto\Proyecto\post\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
